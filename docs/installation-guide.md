@@ -100,6 +100,3 @@ ytDlpPath: "D:\\yt-dlp.exe"
 ```
 
 ---
-
-✅ You can save this guide as `docs/installation-guide.md` in your project.  
-It is for **reference only** and **will not affect** your Spring Boot application.
